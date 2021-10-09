@@ -1,4 +1,4 @@
-aiohttp==3.7.4.post0
+aiohttp==3.7.4
 async-timeout==3.0.1
 attrs==19.2.0
 certifi==2019.9.11
@@ -17,6 +17,5 @@ requests-async==0.6.2
 rfc3986==1.3.2
 six==1.12.0
 tenacity==5.1.1
-typing-extensions==3.10.0.2
-urllib3==1.26.7
+urllib3==1.26.5
 yarl==1.3.0
