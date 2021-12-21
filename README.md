@@ -18,3 +18,6 @@ tg_config.json
 }
 
 ```
+
+目前正在运作的bot：https://t.me/bing_daily_image
+
