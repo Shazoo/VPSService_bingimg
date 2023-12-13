@@ -43,7 +43,7 @@ def dump_all():
 
 if __name__ == '__main__':
     post_tg_channel(get_bing_img_info())
-     
+#    dump_all()     
 
       
 
